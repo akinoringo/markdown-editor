@@ -2,6 +2,6 @@
 import * as React from "react"
 import { render } from "react-dom"
 
-const Main = (<h1>Markdown Editor</h1>)
+const Main = (<h1>Markdown Editor + Webpack Dev Server</h1>)
 
 render(Main, document.getElementById('app'))
